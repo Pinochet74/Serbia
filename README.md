@@ -1,4 +1,22 @@
 # Serbia
+An FPS game made for a school project. with a balkan theme and some simple funktion.
+The game si not done but it will be uppdate later on. The game is done enougth to so you
+can try it out.
+
+Features
+--------
+- Basic movement dunction
+- Basic fire and grenade funktions
+- Basic networking function
+- Pause function
+- Simple particle effects
+
+Set up
+------------
+  1.import project
+  2.run it in Unity 5.5.1f1
+  you can also just run the .exe if you only want to play
+
 Contribute
 ----------
 You can contribute bye fixing the grenade Bugg and expand the network functions
