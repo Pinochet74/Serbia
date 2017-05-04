@@ -1,0 +1,64 @@
+Initialize engine version: 5.5.1f1 (88d00a7498cd)
+GfxDevice: creating device client; threaded=1
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.1]
+    Renderer: Intel(R) HD Graphics 4600 (ID=0x416)
+    Vendor:   Intel
+    VRAM:     1792 MB
+    Driver:   10.18.10.3907
+Begin MonoManager ReloadAssembly
+Platform assembly: D:\Serbia\Plezwork_Data\Managed\UnityEngine.dll (this message is harmless)
+Loading D:\Serbia\Plezwork_Data\Managed\UnityEngine.dll into Unity Child Domain
+Platform assembly: D:\Serbia\Plezwork_Data\Managed\Assembly-CSharp.dll (this message is harmless)
+Loading D:\Serbia\Plezwork_Data\Managed\Assembly-CSharp.dll into Unity Child Domain
+Platform assembly: D:\Serbia\Plezwork_Data\Managed\UnityEngine.UI.dll (this message is harmless)
+Loading D:\Serbia\Plezwork_Data\Managed\UnityEngine.UI.dll into Unity Child Domain
+Platform assembly: D:\Serbia\Plezwork_Data\Managed\UnityEngine.Networking.dll (this message is harmless)
+Loading D:\Serbia\Plezwork_Data\Managed\UnityEngine.Networking.dll into Unity Child Domain
+Platform assembly: D:\Serbia\Plezwork_Data\Managed\UnityEngine.PlaymodeTestsRunner.dll (this message is harmless)
+Loading D:\Serbia\Plezwork_Data\Managed\UnityEngine.PlaymodeTestsRunner.dll into Unity Child Domain
+- Completed reload, in  0.137 seconds
+Platform assembly: D:\Serbia\Plezwork_Data\Managed\System.Core.dll (this message is harmless)
+Platform assembly: D:\Serbia\Plezwork_Data\Managed\System.dll (this message is harmless)
+desktop: 1366x768 50Hz; virtual: 1366x768 at 0,0
+<RI> Initializing input.
+<RI> Input initialized.
+<RI> Initialized touch support.
+UnloadTime: 7.426966 ms
+Setting up 1 worker threads for Enlighten.
+  Thread -> id: 54c -> priority: 1 
+NullReferenceException: Object reference not set to an instance of an object
+  at Granat.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at Granat.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at Granat.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at Granat.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at Granat.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at Granat.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at Granat.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
